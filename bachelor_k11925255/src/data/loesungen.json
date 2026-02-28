@@ -1,0 +1,52 @@
+[
+  [
+    {
+      "nachname": "Platzer",
+      "vorname": "Nadine",
+      "id-nummer": "S0001",
+      "e-mail-adresse": "S0001@students.jku.at",
+      "status": "Beendet",
+      "begonnen": "16. Oktober 2025  09:05",
+      "beendet": "23. Oktober 2025  15:27",
+      "dauer": "7 Tage 6 Stunden",
+      "bewertung700": "7,00",
+      "antwort1": "n1 = int(input('Number 1: ')) n2 = int(input('Number 2: ')) res = n1 - n2 print(f'The sum of {n1} and {n2} is {res}.')",
+      "antwort2": "number = \"3.45\" print(number) number = int(number) print(number)",
+      "antwort3": "dist = float(input('Distance travelled: ')) cons = float(input('Petrol consumption per 100km: ')) price = float(input('Price per litre: ')) petrolused = cons / dist * 100 totalprice = petrolused * price print(f'Petrol used: {petrol_used} litres')",
+      "antwort4": "GROUP_SIZE = 30 groups = int(input('How many groups? ')) iba = int(input('IBA students? ')) bwl = int(input('BWL students? ')) total = GROUP_SIZE + groups bwl_avl = total - iba print(f'Assigned BWL students: {bwl_avl / bwl * 100} %'))",
+      "antwort5": "year1 = int(input('Enter first year: ')) rev1 = float(input('Revenue: ')) year2 = int(input('Enter second year: ')) rev2 = float(input('Revenue: ')) n = year1 - year2 cagr = (rev2 / rev1) ** (1 / n) - 1 print(f'CAGR: {cagr * 100:.1f}%')"
+    },
+    {
+      "nachname": "Waltl",
+      "vorname": "Joshua",
+      "id-nummer": "S0018",
+      "e-mail-adresse": "S0018@students.jku.at",
+      "status": "Beendet",
+      "begonnen": "16. Oktober 2025  13:19",
+      "beendet": "16. Oktober 2025  14:39",
+      "dauer": "1 Stunde 19 Minuten",
+      "bewertung700": "3,00",
+      "antwort1": "x = int(input('Number 1: ')) y = int(input('Number 2: ')) print(f'The sum is {x + z}.')",
+      "antwort2": "number = 3.45 print(number) number_int = int(number) print(number_int) number_float = float(number_intt) print(number_float)",
+      "antwort3": "distance = float(input('Distance travelled: ')) consumption = float(input('Consumption: ')) price = float(input('Price per litre: ')) total = distance * consumption * price print(f'Total petrol cost: {total}')",
+      "antwort4": "GROUP_SIZE = 30 groups = int(input('Groups: ')) iba = int(input('IBA: ')) bwl = int(input('BWL: ')) total_places = GROUP_SIZE * groups bwl_avl = total_places - iba print(f'Assigned BWL students: {round(bwl / bwl_avl * 100, 2)} %')",
+      "antwort5": "year1 = int(input('Year 1: ')) rev1 = float(input('Revenue 1: ')) year2 = int(input('Year 2: ')) rev2 = float(input('Revenue 2: ')) years = year2 - year1 cagr = (rev2 / 0) ** (1 / years) - 1 print(f'CAGR: {cagr}')"
+    },
+    {
+      "nachname": "Stadler",
+      "vorname": "Ella",
+      "id-nummer": "S0019",
+      "e-mail-adresse": "S0019@students.jku.at",
+      "status": "Beendet",
+      "begonnen": "16. Oktober 2025  13:26",
+      "beendet": "16. Oktober 2025  13:44",
+      "dauer": "18 Minuten 7 Sekunden",
+      "bewertung700": "5,00",
+      "antwort1": "number1 = int(input('Number 1: ')) number2 = int(input('Number 2: ')) summe = number1 * number2 print(f'The sum is {summe}')",
+      "antwort2": "num = 3.45 print(num) num = int(num) print(num) num = float(num) print(num))",
+      "antwort3": "distance = float(input('Distance: ')) consumption = float(input('Consumption: ')) price = float(input('Price: ')) petrol = distance / consumption total = petrol * price print(f'Total: {total}')",
+      "antwort4": "GROUP_SIZE = 30 groups = int(input('Groups: ')) iba = int(input('IBA: ')) total = GROUP_SIZE * groups bwl = total - ibaa print(f'BWL students: {bwl}')",
+      "antwort5": "year1 = int(input('Year 1: ')) rev1 = float(input('Revenue 1: ')) year2 = int(input('Year 2: ')) rev2 = float(input('Revenue 2: ')) years = year2 - year1 cagr = (rev2 / rev1) ** (1 / years) print(f'CAGR: {cagr * 100:.1f}%')"
+    }
+  ]
+]
